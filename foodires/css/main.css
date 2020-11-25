@@ -126,3 +126,16 @@ div.nav_section ul li a {
 	text-decoration: none;
 	color: #111;
 }
+span.home:before {
+	content: '\f015';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 21px;
+}
+
+span.menu:before {
+	content: '\f009';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 21px;
+}
