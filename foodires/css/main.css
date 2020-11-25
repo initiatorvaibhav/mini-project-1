@@ -718,3 +718,30 @@ div.info_holder h2 {
 p.close_p {
 	text-align: right;
 }
+p.summary_p {
+	line-height: 25px;
+	color: #222;
+	text-align: justify;
+}
+
+span.s_summary:before {
+	content: "\f02e";
+	font-family: FontAwesome;
+	color: #FF5722;
+	font-size: 25px;
+	margin-right: 4px;
+}
+
+
+p.summary_p span {
+	font-weight: bold;
+}
+
+span.close_sp:before {
+	content: "\f00d";
+	font-family: FontAwesome;
+	color: #FF5722;
+	font-size: 25px;
+	margin-right: 4px;
+	cursor: pointer;
+}
