@@ -24,3 +24,22 @@ header {
 	margin-bottom: 60px;
 	z-index: 1;
 }
+div.nav_toggle {
+	padding: 20px;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 200;
+	display: none;
+}
+div.nav_toggle:before {
+	content: '\f039';
+	font-family: FontAwesome;
+	text-align: center;
+	font-weight: bold;
+	height: 40px;
+	color: #fff;
+	cursor: pointer;
+}
