@@ -745,3 +745,26 @@ span.close_sp:before {
 	margin-right: 4px;
 	cursor: pointer;
 }
+@media only screen and (max-width: 850px) {
+	
+	div.main_nav {
+		width: 100%;
+	}
+	
+	div.nav_toggle {
+		display: block;
+	}
+	
+	div.main_nav ul {
+		display: none;
+	}
+	
+	div.main_nav h2 {
+		font-size: 20px;
+	}
+	
+	form.hr_book_form  div.left{
+		float: none;
+		width: 100%;
+	}
+}
