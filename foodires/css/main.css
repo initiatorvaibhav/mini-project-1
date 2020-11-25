@@ -217,3 +217,18 @@ div.on_parallax h2 {
 	font-weight: 200;
 	font-family: lucida handwriting;
 }
+span.fresh:before {
+	content: '\f009';
+	font-family: FontAwesome;
+	color: #22deff;
+	font-size: 25px;
+	margin-right: 4px;
+}
+
+span.cart:before {
+	content: "\f01c";
+	font-family: FontAwesome;
+	color: #22ffff;
+	font-size: 25px;
+	margin-right: 4px;
+}
