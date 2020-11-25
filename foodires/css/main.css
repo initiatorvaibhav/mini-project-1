@@ -96,3 +96,8 @@ div.nav_section_img {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+div.nav_section_div {
+	background: #000;
+	height: 120px;
+	opacity: 0.8;
+}
