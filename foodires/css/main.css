@@ -825,4 +825,31 @@ span.close_sp:before {
 		font-family: Verdana;
 		font-weight: bold;
 	}
+	div.parallax_head_basket h2 {
+		font-size: 30px;
+	}
+	
+	div.parallax_head_basket h3 {
+		font-size: 35px;
+		font-family: Verdana;
+		font-weight: bold;
+	}
+	
+	div.main_nav h2 {
+		font-size: 17px;
+	}
+	
+	div.detail_desc input[type=text] {
+		padding: 3px;
+	}
+	
+	div.detail_desc label {
+		padding: 0px 15px 4px 15px;
+		border-radius: 0px;
+	}
+	
+	div.single_order_head h3 {
+		font-size: 14px;
+		font-weight: bold;
+	}
 }
