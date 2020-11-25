@@ -412,3 +412,35 @@ a.submit {
 a.submit:hover {
 	letter-spacing: 3px;
 }
+div.contact {
+	max-width: 600px;
+	margin: 0 auto;
+	height: auto;
+	color: #333;
+}
+
+div.contact div.left h3 {
+	color: #FF5722;
+	font-weight: 200;
+	margin-bottom: 4px;
+}
+
+div.contact div.left p {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+div.icon_holder {
+	text-align: center;
+	margin-top: 10px;
+}
+
+div.footer_parallax {
+	background-image: url("../image/dish_2.jpg");
+	background-attachment: fixed;
+	height: 60px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
