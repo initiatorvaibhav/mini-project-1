@@ -605,3 +605,38 @@ div.single_order p input[type=number] {
 	border-radius: 0px;
 	background: #fff;
 }
+input.remove {
+	border: 1px solid #FF002A;
+	background: #FF002A;
+	color: #fff;
+	padding: 0px 5px 1px 5px;
+	font-weight: bold;
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+div.checkout_section {
+	padding: 10px;
+	height: auto;
+}
+
+p.p_total {
+	text-align: right;
+	padding-right: 30px;
+}
+
+p.p_total span {
+	color: #333;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+div.empty_cart {
+	width: 48%;
+	float: left;
+	height: auto;
+	padding: 10px 0px;
+	background: red;
+	text-align: center;
+}
