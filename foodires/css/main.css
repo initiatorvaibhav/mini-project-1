@@ -350,3 +350,41 @@ div.left {
 	height: auto;
 	padding: 20px;
 }
+label {
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	color: #505050;
+	font-size: 18px;
+}
+
+input[type=text], input[type=email], input[type=number], input[type=date], input[type=time] {
+	width: 100%;
+	border: 1px solid #CCCCCC;
+	padding: 7px;
+	height: 40px;
+	background: #efefef;
+	border-radius: 4px;
+}
+
+textarea {
+	width: 100%;
+	background: #efefef;
+	border: 1px solid #ccc;
+	padding: 7px;
+	border-radius: 4px;
+	height: 280px;
+}
+
+input[type=submit].submit {
+	width: 100%;
+	background: #FF5722;
+	color: #fff;
+	padding: 7px;
+	height: 40px;
+	border: 1px solid #FF5722;
+	font-family: verdana;
+	font-size: 19px;
+	margin-top: 27px;
+	border-radius: 4px;
+}
