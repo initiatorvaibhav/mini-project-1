@@ -177,3 +177,28 @@ div.parallax_two {
 	background-position: center;
 	background-size: cover;
 }
+div.parallax_head {
+	background: #000;
+	opacity: 0.8;
+	color: #fff;
+	text-align: center;
+	height: 370px;
+	padding: 10px;
+}
+div.parallax_basket {
+	background-image: url("../image/dish_2.jpg");
+	background-attachment: fixed;
+	height: 210px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
+div.parallax_head_basket {
+	background: #000;
+	opacity: 0.8;
+	color: #fff;
+	text-align: center;
+	height: 210px;
+	padding: 10px;
+}
