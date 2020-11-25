@@ -388,3 +388,27 @@ input[type=submit].submit {
 	margin-top: 27px;
 	border-radius: 4px;
 }
+a.submit {
+	width: 100%;
+	display: block;
+	text-align: center;
+	max-width: 400px;
+	background: #333;
+	color: #fff;
+	padding: 7px;
+	height: 40px;
+	margin: 0 auto;
+	border: 1px solid #333;
+	letter-spacing: 1px;
+	transition: letter-spacing 200ms ease-in;
+	-moz-transition: letter-spacing 200ms ease-in;
+	-webkit-transition: letter-spacing 200ms ease-in;
+	font-family: verdana;
+	font-size: 19px;
+	margin-top: 10px;
+	border-radius: 4px;
+	text-decoration: none;
+}
+a.submit:hover {
+	letter-spacing: 3px;
+}
