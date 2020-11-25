@@ -498,3 +498,37 @@ div.detail_desc {
 	text-align: left;
 	line-height: 30px;
 }
+p.label_center {
+	text-align: center;
+}
+
+h3.desc_header {
+	text-align: center;
+	text-transform:uppercase;
+	letter-spacing: 2px;
+	transition: letter-spacing 200ms ease-in;
+	-moz-transition: letter-spacing 200ms ease-in;
+	-webkit-transition: letter-spacing 200ms ease-in;
+}
+
+h3.desc_header:hover {
+	letter-spacing: 4px;
+}
+
+p.desc_detail {
+	text-align: justify;
+}
+
+div.detail_desc label {
+	padding: 0px 15px 6px 15px;
+	display: inline-block;
+	margin-top: 1px;
+	font-size: 20px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+div.detail_desc label.add {
+	background: #6666FF;
+	color: #fff;
+}
