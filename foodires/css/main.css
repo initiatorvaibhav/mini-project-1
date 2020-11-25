@@ -640,3 +640,36 @@ div.empty_cart {
 	background: red;
 	text-align: center;
 }
+div.checkout {
+	width: 48%;
+	float: right;
+	height: auto;
+	padding: 10px 0px;
+	background: green;
+}
+
+div.checkout a, div.empty_cart a {
+	text-decoration: none;
+	display: block;
+	color: #fff;
+	letter-spacing: 1px;
+	transition: letter-spacing 200ms ease-in;
+	-moz-transition: letter-spacing 200ms ease-in;
+	-webkit-transition: letter-spacing 200ms ease-in;
+}
+
+div.empty_cart a:hover, div.checkout a:hover {
+	letter-spacing: 2px;
+}
+
+div.overlay {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 2000;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.95;
+	display: none;
+}
