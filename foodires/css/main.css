@@ -116,3 +116,13 @@ div.nav_section {
 div.nav_section ul {
 	list-style-type: none;
 }
+div.nav_section ul li {
+	display: block;
+	height: 40px;
+	border-bottom: 1px solid #efefef;
+	line-height: 40px;
+}
+div.nav_section ul li a {
+	text-decoration: none;
+	color: #111;
+}
