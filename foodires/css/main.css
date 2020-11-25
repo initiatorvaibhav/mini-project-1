@@ -88,3 +88,11 @@ div.responive_nav {
 	background: #fff;
 	transition: margin 200ms ease-in;
 }
+div.nav_section_img {
+	background-image: url("../image/dish_2.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	height: 120px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
