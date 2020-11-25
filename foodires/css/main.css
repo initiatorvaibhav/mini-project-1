@@ -329,3 +329,18 @@ h2.form_head {
 	color: #505050;
 	font-size: 30px;
 }
+span.book_icon:before {
+	content: '\f0ce';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 30px;
+	color: #FF5722;
+}
+
+p.form_slg {
+	text-align: center;
+	color: #FF5722;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 14px;
+}
