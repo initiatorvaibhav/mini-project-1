@@ -852,4 +852,30 @@ span.close_sp:before {
 		font-size: 14px;
 		font-weight: bold;
 	}
+	div.single_order {
+		font-size: 14px;
+	}
+	
+	p.p_total span {
+		font-size: 15px;
+	}
+
+	div.empty_cart {
+		padding: 7px 0px;
+	}
+
+	div.checkout {
+		padding: 7px 0px;
+	}
+
+	div.checkout a, div.empty_cart a {
+		font-size: 15px;
+	}
+	
+	div.info_holder {
+		width: 80%;
+		top: 10px;
+		left: 10%;
+	}
+	
 }
