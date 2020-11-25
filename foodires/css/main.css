@@ -879,3 +879,45 @@ span.close_sp:before {
 	}
 	
 }
+@media only screen and (max-width: 384px) {
+	
+	div.parallax_item img {
+		margin-right: 2px;
+		width: 70px;
+	}
+	
+	div.main_nav h2 {
+		font-weight: bold;
+		margin-top: 3px;
+	}
+
+	div.detail {
+		padding: 5px;
+		text-align: left;
+		float:left;
+		width: 73%;
+	}
+
+	div.detail p.desc {
+		font-size: 13px;
+	}
+	
+	div.content {
+		background: #fff;
+		color: #000;
+		padding: 3px 10px;
+		height: auto;
+		display: block;
+	}
+
+	div.inner_content {
+		padding: 20px 10px;
+	}
+	
+	div.info_holder {
+		width: 90%;
+		position: absolute;
+		top: 5px;
+		left: 5%;
+	}
+}
