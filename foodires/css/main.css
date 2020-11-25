@@ -139,3 +139,41 @@ span.menu:before {
 	margin-right: 13px;
 	font-size: 21px;
 }
+span.reserve:before {
+	content: '\f0ce';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 21px;
+}
+
+span.gallery:before {
+	content: '\f030';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 21px;
+}
+
+span.order:before {
+	content: '\f0d6';
+	font-family: FontAwesome;
+	margin-right: 13px;
+	font-size: 20px;
+}
+div.parallax {
+	background-image: url("../image/dish_2.jpg");
+	background-attachment: fixed;
+	height: 370px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
+
+div.parallax_two {
+	background-image: url("../image/dish.jpg");
+	background-attachment: fixed;
+	height: 370px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
