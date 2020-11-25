@@ -273,3 +273,15 @@ div.detail p.price {
 	color: #FF5722;
 	font-weight: bold;
 }
+div.parallax_head h2 {
+	margin-top: 150px;
+	font-family: lucida handwriting;
+	text-transform: capitalize;
+	font-size: 35px;
+}
+
+div.parallax_head h3 {
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: 200;
+}
