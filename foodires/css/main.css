@@ -76,3 +76,15 @@ div.main_nav ul li a {
 	color: #fff;
 	
 }
+div.responive_nav {
+	max-width: 250px;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	margin-left: -250px;
+	height: 100%;
+	z-index: 100;
+	background: #fff;
+	transition: margin 200ms ease-in;
+}
