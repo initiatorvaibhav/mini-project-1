@@ -29,13 +29,12 @@
 					echo "<script>alert('Invalid login credentials. Please try again')</script>";
 					
                 }
+            }
             else{
 				
-                    echo "<script>alert('Some fields are empty. All fields required!')</script>";
-                    
-            }
-				
-			}
+                echo "<script>alert('Some fields are empty. All fields required!')</script>";
+                
+        }
         }
     }
 

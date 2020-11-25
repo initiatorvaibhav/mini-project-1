@@ -344,3 +344,9 @@ p.form_slg {
 	text-transform: uppercase;
 	font-size: 14px;
 }
+div.left {
+	float: left;
+	width: 50%;
+	height: auto;
+	padding: 20px;
+}
