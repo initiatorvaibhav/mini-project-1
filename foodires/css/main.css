@@ -107,3 +107,12 @@ div.nav_section_div h3 {
 	text-align: center;
 	line-height: 110px;
 }
+div.nav_section {
+	height: auto;
+	display: block;
+	padding: 20px;
+	background: #fff;
+}
+div.nav_section ul {
+	list-style-type: none;
+}

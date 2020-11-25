@@ -69,6 +69,7 @@ $cartTotal = "";
 $chkbtn = "";
 $empty_cart = "";
 $chkprice = "";
+$chkfood = "";
 $product_id_array = "";
 if (!isset($_SESSION["cart_array"]) || count($_SESSION["cart_array"]) < 1) {
 		

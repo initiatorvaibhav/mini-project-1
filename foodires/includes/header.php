@@ -10,7 +10,7 @@
 
     <div class="main_nav">
 		
-		<h2>Unique Restaurant</h2>
+		<h2>Foodires Restaurant</h2>
 		
 		<ul class="default_links">
 			
@@ -36,7 +36,7 @@
 		
 		<div class="nav_section_div">
 			
-			<h3>Foodires</h3>
+			<h3>Foodires Restaurant</h3>
 			
 		</div>
 		
