@@ -257,3 +257,19 @@ div.parallax_item img {
 	float: left;
 	margin-right: 5px;
 }
+div.detail {
+	padding: 5px;
+	text-align: left;
+	float:left;
+}
+
+div.detail p.desc {
+	font-size: 14px;
+}
+
+div.detail p.price {
+	text-align: right;
+	line-height: 30px;
+	color: #FF5722;
+	font-weight: bold;
+}
