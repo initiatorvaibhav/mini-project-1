@@ -444,3 +444,35 @@ div.footer_parallax {
 	background-size: cover;
 	width: 100%;
 }
+div.on_footer_parallax {
+	background: #000;
+	opacity: 0.7;
+	color: #fff;
+	text-align: center;
+	height: 60px;
+	padding: 10px;
+	text-align: center;
+}
+
+div.on_footer_parallax  p{
+	line-height: 40px;
+}
+
+div.on_footer_parallax  p span{
+	color: #FF5722;
+}
+
+div.image_display {
+	box-shadow: 1px 1px 1px 1px #888;
+	margin-bottom: 5px;
+}
+
+div.multicol {
+	display: block;
+	column-count: 4;
+	-moz-column-count: 4;
+	-webkit-column-count: 4;
+	column-rule: 1px solid #efefef;
+	-moz-column-rule: 1px solid #efefef;
+	-webkit-column-rule: 1px solid #efefef;
+}
