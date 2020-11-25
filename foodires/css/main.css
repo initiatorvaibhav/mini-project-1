@@ -767,4 +767,21 @@ span.close_sp:before {
 		float: none;
 		width: 100%;
 	}
+	div.parallax_item {
+		float: none;
+		width: 100%;
+	}
+	
+	div.multicol {
+		column-count: 2;
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-rule: 1px solid #efefef;
+		-moz-column-rule: 1px solid #efefef;
+		-webkit-column-rule: 1px solid #efefef;
+	}
+	
+	div.detail_img img {
+		height: 200px;
+	}
 }
