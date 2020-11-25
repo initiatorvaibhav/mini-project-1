@@ -785,3 +785,20 @@ span.close_sp:before {
 		height: 200px;
 	}
 }
+@media screen and (max-width: 700px) {
+	
+	div.detail_img {
+		float: none;
+		width: 100%;
+	}
+	
+	div.detail_img img {
+		height: 305px;
+	}
+	
+	div.detail_desc {
+		float: none;
+		width: 100%;
+	}
+	
+}
