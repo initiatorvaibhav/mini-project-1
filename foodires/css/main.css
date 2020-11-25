@@ -476,3 +476,25 @@ div.multicol {
 	-moz-column-rule: 1px solid #efefef;
 	-webkit-column-rule: 1px solid #efefef;
 }
+div.detail_holder {
+	display: block;
+	height: auto;
+}
+
+div.detail_img {
+	width: 25%;
+	height: auto;
+	float: left;
+}
+
+div.detail_img img {
+	height: 305px;
+}
+
+div.detail_desc {
+	width: 75%;
+	padding: 10px 40px;
+	float: left;
+	text-align: left;
+	line-height: 30px;
+}
