@@ -43,3 +43,17 @@ div.nav_toggle:before {
 	color: #fff;
 	cursor: pointer;
 }
+div.main_nav {
+	padding: 15px 15px;
+	display: block;
+	background: #22e5ff;
+	height: auto;
+	min-height: 60px;
+}
+div.main_nav h2 {
+	float: left;
+	margin-left: 35px;
+	font-family: 1em "helvetica" sans-serif;
+	color: #fff;
+	font-weight: 200;
+}
