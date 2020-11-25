@@ -569,3 +569,39 @@ input[type=submit].submit.add_order {
 	-moz-transition: letter-spacing 200ms ease-in;
 	-webkit-transition: letter-spacing 200ms ease-in;
 }
+input[type=submit].submit.add_order:hover {
+	letter-spacing: 3px;
+}
+
+/*basket styling*/
+
+div.order_holder {
+	padding: 10px;
+}
+
+div.single_order_head, div.single_order {
+	border-bottom: 1px solid #ccc;
+}
+
+div.single_order_head h3 {
+	display: inline-block;
+	width: 18%;
+	font-size: 18px;
+	font-weight: 100;
+	text-align: center;
+	padding: 5px 0px;
+}
+
+div.single_order p {
+	display: inline-block;
+	width: 18%;
+	text-align: center;
+	padding: 5px 0px;
+}
+
+div.single_order p input[type=number] {
+	text-align: center;
+	border: none;
+	border-radius: 0px;
+	background: #fff;
+}
