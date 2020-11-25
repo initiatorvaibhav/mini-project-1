@@ -285,3 +285,15 @@ div.parallax_head h3 {
 	font-family: sans-serif;
 	font-weight: 200;
 }
+div.parallax_head_basket h2 {
+	margin-top: 70px;
+	font-family: lucida handwriting;
+	text-transform: capitalize;
+	font-size: 35px;
+}
+
+div.parallax_head_basket h3 {
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: 200;
+}
