@@ -802,3 +802,27 @@ span.close_sp:before {
 	}
 	
 }
+@media only screen and (max-width: 500px) {
+	
+	div.parallax {
+		max-height: 270px;
+	}
+	
+	div.parallax_head {
+		max-height: 270px;
+	}
+	
+	div.parallax_head h2 {
+		font-size: 30px;
+	}
+	
+	div.parallax_head h2 {
+		margin-top: 100px;
+	}
+
+	div.parallax_head h3 {
+		font-size: 35px;
+		font-family: Verdana;
+		font-weight: bold;
+	}
+}
