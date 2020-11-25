@@ -64,3 +64,10 @@ div.main_nav ul {
 	float: right;
 	margin-right: 20px;
 }
+div.main_nav ul li {
+	float: left;
+	margin-left: 20px;
+	margin-top: 5px;
+	height: 20px;
+	width: auto;
+}
