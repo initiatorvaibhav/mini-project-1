@@ -101,3 +101,9 @@ div.nav_section_div {
 	height: 120px;
 	opacity: 0.8;
 }
+div.nav_section_div h3 {
+	color: #fff;
+	font-family: lucida handwriting;
+	text-align: center;
+	line-height: 110px;
+}
