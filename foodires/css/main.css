@@ -312,3 +312,20 @@ div.content.remove_pad {
 	height: auto;
 	display: block;
 }
+div.inner_content {
+	max-width: 1200px;
+	height: auto;
+	padding: 20px;
+	margin: 0 auto;
+}
+form.hr_book_form {
+	max-width: 1100px;
+	height: auto;
+	margin: 0 auto;
+}
+
+h2.form_head {
+	text-align: center;
+	color: #505050;
+	font-size: 30px;
+}
