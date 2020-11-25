@@ -232,3 +232,28 @@ span.cart:before {
 	font-size: 25px;
 	margin-right: 4px;
 }
+div.parallax_content {
+	max-width: 1100px;
+	height: auto;
+	padding: 1px;
+	margin: 0 auto;
+}
+
+div.parallax_item {
+	float: left;
+	margin-left: 1%;
+	width: 32%;
+	background: #fff;
+	height: auto;
+	box-shadow: 1px 1px 2px #000;
+	margin-bottom: 7px;
+}
+div.parallax_item a {
+	text-decoration: none;
+	color: #505050;
+}
+
+div.parallax_item img {
+	float: left;
+	margin-right: 5px;
+}
