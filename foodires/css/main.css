@@ -202,3 +202,18 @@ div.parallax_head_basket {
 	height: 210px;
 	padding: 10px;
 }
+div.on_parallax {
+	background: #fff;
+	opacity: 0.9;
+	color: #505050;
+	text-align: center;
+	height: 370px;
+	padding: 10px;
+}
+
+div.on_parallax h2 {
+	color: #333;
+	margin: 15px auto;
+	font-weight: 200;
+	font-family: lucida handwriting;
+}
